@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mono", "mono\mono.csproj", "{50476C4B-80B0-4B84-BDEB-AB275A93E530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50476C4B-80B0-4B84-BDEB-AB275A93E530}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{50476C4B-80B0-4B84-BDEB-AB275A93E530}.Debug|anycpu.Build.0 = Debug|anycpu
+		{50476C4B-80B0-4B84-BDEB-AB275A93E530}.Release|anycpu.ActiveCfg = Release|anycpu
+		{50476C4B-80B0-4B84-BDEB-AB275A93E530}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
